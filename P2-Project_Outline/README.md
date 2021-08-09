@@ -7,12 +7,13 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+So our project is pretty much an app that would allow people to trade or donate services for things they either need or have called Helping Hands.
+
 ### Features
-Include Features here
+Some features we will be using will be User Authentication, Database backend for storage of accounts,etc., Interactive user interface for easy navigation for the user. 
 ### Technologies
-Include Technologies here
+Some Technologies that we will be using will be: React,maybe Java, Html, Css, and possibly some JavaScript, with Bootstrap 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll have to learn a little more of React and possibly some Python and C# for the Front End 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/Y56Ga8g5/liftoff-project
